@@ -1,0 +1,28 @@
+body {
+    background-image: url('http://n1.backgroundsarchive.net/pub/0/572o5p5jjsyhb.jpg');
+    cursor: url('../risograph.github.io/assets/cursor.gif'),auto;
+  }
+h1 {
+    color: white;
+  }
+h2 {
+    color: #808080;
+  }
+h3 {
+    color: #404040;
+  }
+h4 {
+    color: #000000;
+  }
+h5 {
+    color: white;
+  }
+h6 {
+    color: white;
+  }
+p {
+    color: white;
+    cursor: url('../risograph.github.io/assets/cursor.gif'),auto;
+    cursor: url('../risograph.github.io/assets/cursor.gif'),default;
+    cursor: url('../risograph.github.io/assets/cursor.gif'),pointer;
+  }
