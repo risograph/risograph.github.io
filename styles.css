@@ -1,6 +1,8 @@
 body {
-    background-image: url('bg.jpeg');
+    background-image: url('assets/bg.jpeg');
     cursor: url('cursor.gif'),auto;
+    cursor: url('cursor.gif'),pointer;
+    cursor: url('cursor.gif'),default;
   }
 h1 {
     color: white;
