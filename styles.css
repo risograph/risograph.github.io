@@ -14,7 +14,7 @@ h3 {
     color: #404040;
   }
 h4 {
-    color: #000000;
+    color: black;
   }
 h5 {
     color: white;
@@ -27,4 +27,7 @@ p {
     cursor: url('assets/cursor.gif'),auto;
     cursor: url('assets/cursor.gif'),default;
     cursor: url('assets/cursor.gif'),pointer;
+  }
+a {
+    color: white;
   }
