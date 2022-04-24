@@ -1,8 +1,8 @@
 body {
-    background-image: url('assets/bg.jpeg');
-    cursor: url('cursor.gif'),auto;
-    cursor: url('cursor.gif'),pointer;
-    cursor: url('cursor.gif'),default;
+    background-image: url('bg.jpeg');
+    cursor: url('assets/cursor.gif'),auto;
+    cursor: url('assets/cursor.gif'),pointer;
+    cursor: url('assets/cursor.gif'),default;
   }
 h1 {
     color: white;
@@ -24,7 +24,7 @@ h6 {
   }
 p {
     color: white;
-    cursor: url('cursor.gif'),auto;
-    cursor: url('cursor.gif'),default;
-    cursor: url('cursor.gif'),pointer;
+    cursor: url('assets/cursor.gif'),auto;
+    cursor: url('assets/cursor.gif'),default;
+    cursor: url('assets/cursor.gif'),pointer;
   }
