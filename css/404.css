@@ -1,7 +1,6 @@
 html {
-    cursor: url('assets/cursor.gif'),auto;
-    cursor: url('assets/cursor.gif'),pointer;
-    cursor: url('assets/cursor.gif'),default;
+    /*FLAME CURSOR 4 LIFERS*/
+    cursor: url('../assets/cursor.gif'),auto;
   }
 h1 {
   font-size: 700%;
