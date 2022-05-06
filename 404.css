@@ -1,8 +1,20 @@
-body {
-    background-image: url('assets/goobert.png');
-    background-size: 700px;
-    background-repeat: no-repeat;
+html {
     cursor: url('assets/cursor.gif'),auto;
     cursor: url('assets/cursor.gif'),pointer;
     cursor: url('assets/cursor.gif'),default;
   }
+h1 {
+  font-size: 700%;
+  margin-block-start: 0.05em;
+  margin-block-end: 0.05em;
+}
+.center {
+  text-align: center;
+}
+.hidden {
+  color: whitesmoke;
+}
+.comic {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: bold;
+}
